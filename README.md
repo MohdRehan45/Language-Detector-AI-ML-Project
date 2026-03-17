@@ -1,4 +1,5 @@
 **🌍 Language Detection using Naive Bayes (Machine Learning)**
+
 **📌 Project Overview**
 
 This project implements a Language Detection System using Machine Learning in Python. The model automatically predicts the language of a given text using the Multinomial Naive Bayes algorithm and Bag-of-Words feature extraction.
@@ -67,7 +68,7 @@ Fast
 Efficient for text data
 
 Works well with large vocabularies
-**
+
 **📂 Dataset Description
 
 The dataset used in this project contains sentences from multiple languages.
